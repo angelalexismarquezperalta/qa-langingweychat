@@ -9,6 +9,10 @@ body {
     color:#ffffff;
 	background-color: #323232;
 }
+.imagen1{
+	float:right;
+	width: 50%;
+	}
 
 .contenedor {
     padding: 60px 0;
