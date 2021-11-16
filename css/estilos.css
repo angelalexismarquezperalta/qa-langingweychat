@@ -31,7 +31,7 @@ body {
 
 header {
     width: 100%;
-    height: 550px;
+    height: 600px;
     background: #FFAC41;
    
     background-size: cover;
@@ -98,13 +98,16 @@ main .sobre-nosotros{
     justify-content: space-evenly;
 }
 
-.imagen-about-us{
-    width: 30%;
-    position: right;
-    align-items: initial;
-}
 
+.imagen1{
+	float:right;
+	width: 45%;
+	}
 
+    .imagen2{
+        float:left;
+        width: 45%;
+        }
 .sobre-nosotros .contenido-textos{
     width: 50%;
 }
