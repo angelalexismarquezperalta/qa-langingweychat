@@ -14,6 +14,11 @@ body {
 	width: 50%;
 	}
 
+.imagen2{
+	float:right;
+	width: 50%;
+	}
+
 .contenedor {
     padding: 60px 0;
     width: 90%;
@@ -103,15 +108,6 @@ main .sobre-nosotros{
 }
 
 
-.imagen1{
-	float:right;
-	width: 45%;
-	}
-
-    .imagen2{
-        float:left;
-        width: 45%;
-        }
 .sobre-nosotros .contenido-textos{
     width: 50%;
 }
